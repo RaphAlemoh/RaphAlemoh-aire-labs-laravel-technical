@@ -1,20 +1,37 @@
-        html {
-            font-family: Urbanist, sans-serif;
-            scroll-behavior: smooth;
-        }
+@import url('https://fonts.cdnfonts.com/css/space-grotesk');
+@import url('https://fonts.cdnfonts.com/css/dm-sans');
+@import url('https://fonts.cdnfonts.com/css/inter');
 
-        body {
-            background-color: #FFF1E8;
-        }
 
-        .img1 {
-            position: fixed;
-            top: -200px;
-            right: -500px;
-        }
+html {
+    font-family: Urbanist, sans-serif;
+    scroll-behavior: smooth;
+}
 
-        .img2 {
-            position: fixed;
-            bottom: -270px;
-            left: -400px;
-        }
+body {
+    background-color: #FFF1E8;
+}
+
+.img1 {
+    position: fixed;
+    top: -200px;
+    right: -500px;
+}
+
+.img2 {
+    position: fixed;
+    bottom: -270px;
+    left: -400px;
+}
+
+.name {
+    font-family: 'Space Grotesk';
+}
+
+.testimony {
+    font-family: 'DM Sans';
+}
+
+.title {
+    font-family: 'Inter';
+}

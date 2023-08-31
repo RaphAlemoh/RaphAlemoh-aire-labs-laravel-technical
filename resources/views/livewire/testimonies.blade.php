@@ -1,15 +1,13 @@
 <div>
     <div class="container">
-
         <div class="img1">
             <img src="{{ asset('graphics/Accent.svg') }}">
         </div>
-    
+
         <div class="img2">
             <img src="{{ asset('graphics/Accent.svg') }}">
         </div>
-        
-        <section class=" absolute p-20 lg:py-28 lg:pb-36 overflow-hidden">
+        <section class="absolute p-20 lg:py-28 lg:pb-36 overflow-hidden">
             <div class="container px-4 mx-auto">
                 <div class="flex flex-wrap -m-3">
                     <div class="w-full md:w-1/3 p-3">
@@ -41,7 +39,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">&ldquo;
+                            <p class="mb-6 text-black testimony tracking-tight">&ldquo;
                                 You made it so simple.
                                 &rdquo;</p>
                             <div class="flex flex-wrap items-center -m-1.5">
@@ -49,8 +47,8 @@
                                     <img src="{{ asset('images/Brittan_Wheeler.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Brittan Wheeler</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">Consultant</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Brittan Wheeler</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">Consultant</span>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +82,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">&ldquo;
+                            <p class="mb-6 text-black testimony tracking-tight">&ldquo;
                                 You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.
                                 &rdquo;</p>
                             <div class="flex flex-wrap items-center -m-1.5">
@@ -92,8 +90,8 @@
                                     <img src="{{ asset('images/Alexa_Popen.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Alexa Popen</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">CEO</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Alexa Popen</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">CEO</span>
                                 </div>
                             </div>
                         </div>
@@ -127,7 +125,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">
+                            <p class="mb-6 text-black testimony tracking-tight">
                                 &ldquo;
                                 You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.
                                 &rdquo;
@@ -137,8 +135,8 @@
                                     <img src="{{ asset('images/Leslie_Alexander.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Leslie Alexander</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">Founder</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Leslie Alexander</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">Founder</span>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +170,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">
+                            <p class="mb-6 text-black testimony tracking-tight">
                                 &ldquo;
                                 You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.
                                 &rdquo;
@@ -182,8 +180,8 @@
                                     <img src="{{ asset('images/Leslie_Alexander.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Leslie Alexander</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">Founder</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Leslie Alexander</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">Founder</span>
                                 </div>
                             </div>
                         </div>
@@ -217,7 +215,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">
+                            <p class="mb-6 text-black testimony tracking-tight">
                                 &ldquo;
                                 You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.
                                 &rdquo;
@@ -227,8 +225,8 @@
                                     <img src="{{ asset('images/Leslie_Alexander.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Leslie Alexander</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">Founder</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Leslie Alexander</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">Founder</span>
                                 </div>
                             </div>
                         </div>
@@ -262,7 +260,7 @@
                                     </svg>
                                 </div>
                             </div>
-                            <p class="mb-6 text-black tracking-tight">
+                            <p class="mb-6 text-black testimony tracking-tight">
                                 &ldquo;
                                 You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change & it is a good channel for us.
                                 &rdquo;
@@ -272,8 +270,8 @@
                                     <img src="{{ asset('images/Leslie_Alexander.png') }}" alt="" height="43" width="43">
                                 </div>
                                 <div class="w-auto p-1.5">
-                                    <h3 class="text-black font-semibold tracking-tight">Leslie Alexander</h3>
-                                    <span class="text-gray-400 text-sm tracking-tight">Founder</span>
+                                    <h3 class="text-black font-semibold name tracking-tight">Leslie Alexander</h3>
+                                    <span class="text-gray-400 title text-sm tracking-tight">Founder</span>
                                 </div>
                             </div>
                         </div>
