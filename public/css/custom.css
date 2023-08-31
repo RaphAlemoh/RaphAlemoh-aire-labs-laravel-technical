@@ -1,0 +1,20 @@
+        html {
+            font-family: Urbanist, sans-serif;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: #FFF1E8;
+        }
+
+        .img1 {
+            position: fixed;
+            top: -200px;
+            right: -500px;
+        }
+
+        .img2 {
+            position: fixed;
+            bottom: -270px;
+            left: -400px;
+        }

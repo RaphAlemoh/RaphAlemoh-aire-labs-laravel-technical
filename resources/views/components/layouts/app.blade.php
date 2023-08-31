@@ -8,17 +8,7 @@
     <title>{{ $title ?? 'Airelabs' }}</title>
     @vite('resources/css/app.css')
 
-    <style>
-        html {
-            font-family: Urbanist, sans-serif;
-            scroll-behavior: smooth;
-        }
-
-        body {
-            margin: 0;
-            background-color: #FFF1E8;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ asset('css/custom.css') }}">
     @livewireStyles
 </head>
 
