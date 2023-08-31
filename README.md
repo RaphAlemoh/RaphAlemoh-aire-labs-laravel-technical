@@ -34,3 +34,12 @@ We are grading based on:
     - npm run dev
 
     - php artisan serve
+
+# project finalization screenshot
+
+
+# Desktop View
+![Alt text](image-1.png)
+
+# Mobile view
+![Alt text](image.png)
